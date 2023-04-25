@@ -39,7 +39,6 @@ const anmol = {
 
 <img src="https://img.shields.io/static/v1?label=QQ:&message=932256355&color=blue">
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=tekintian)
 
 ---
 <!--START_SECTION:waka-->
@@ -106,8 +105,6 @@ CSS                      7 repos             ██░░░░░░░░░�
 TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 ```
-
-
 
 
  Last Updated on 25/04/2023 00:23:53 UTC
