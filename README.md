@@ -39,6 +39,7 @@ const anmol = {
 
 <img src="https://img.shields.io/static/v1?label=QQ:&message=932256355&color=blue">
 
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=tekintian)
 
 ---
 <!--START_SECTION:waka-->
