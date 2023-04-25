@@ -84,7 +84,7 @@ Sunday                   792 commits         █████░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Kolkata
+🕑︎ Time Zone: Asia/ShangHai
 
 💬 Programming Languages: 
 No Activity Tracked This Week
