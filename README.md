@@ -3,15 +3,12 @@
 
 <p><em>Hi, I am TekinTian, a senior full stack software engineer from Yunnan, China with over 10 years of research and development experience.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-[![Twitter Follow](https://img.shields.io/twitter/follow/tekintian?label=Follow)](https://twitter.com/intent/follow?screen_name=tekintian)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/tekintian/)
-![GitHub followers](https://img.shields.io/github/followers/tekintian?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://dev.yunnan.ws/)](http://dev.yunnan.ws/)
+ 
+<img src="https://img.shields.io/static/v1?label=Email:&message=tekintian@gmail.com&color=blue">  <img src="https://img.shields.io/static/v1?label=QQ:&message=932256355&color=blue"> 
 
-![](https://visitor-badge.glitch.me/badge?page_id=tekintian.tekintian)
+![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://dev.yunnan.ws/) 
 ![Waka Readme](https://github.com/tekintian/tekintian/workflows/Waka%20Readme/badge.svg)
-
-
+ 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
