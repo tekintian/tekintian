@@ -1,8 +1,8 @@
 <h2><img src="assets/sunglasses.gif" width="30"/> hi, I'm Tekin Tian! <img src="assets/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="assets/work.gif" width="230">
+
 <p><em>Hi, I am TekinTian, a senior full stack software engineer from Yunnan, China with over 10 years of research and development experience.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/tekintian?label=Follow)](https://twitter.com/intent/follow?screen_name=tekintian)
 [![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/tekintian/)
 ![GitHub followers](https://img.shields.io/github/followers/tekintian?label=Follow&style=social)
