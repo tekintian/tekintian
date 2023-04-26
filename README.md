@@ -1,4 +1,4 @@
-<h2><img src="assets/sunglasses.gif" width="30"/> hi, I'm Tekin Tian! <img src="assets/giphy.gif" width="50"> <img src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-46a2f1.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/tekintian/tekintian/blob/main/README-zh.md"></h2>
+<h2><img src="assets/sunglasses.gif" width="30"/> hi, I'm Tekin Tian! <img src="assets/giphy.gif" width="50"> <a href="https://github.com/tekintian/tekintian/blob/main/README-zh.md" target="_blank"><img src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-46a2f1.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/tekintian/tekintian/blob/main/README-zh.md"></a></h2>
 <img align='right' src="assets/work.gif" width="230">
 
 <p><em>Hi, I am TekinTian, a senior full stack software engineer from Yunnan, China with over 10 years of research and development experience.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
