@@ -18,7 +18,7 @@ jobs:
           SHOW_PROJECTS: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "True"
-          LOCALE: "zh"
+          LOCALE: "en,zh"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_OS: "True"
           UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
