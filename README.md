@@ -37,6 +37,8 @@ const anmol = {
 <img src="https://img.shields.io/static/v1?label=QQ:&message=932256355&color=blue">
 
 
+<img src="https://i.imgtg.com/2023/04/26/Ij98a.png">
+
 ---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
@@ -93,7 +95,7 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in PHP** 
+**I Mostly Code in JAVA/PHP** 
 
 ```text
 Java                     23 repos            █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
