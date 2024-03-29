@@ -50,8 +50,6 @@ const Tekin = {
 
 > 📦 2.6 MB Used in GitHub's Storage 
  > 
-> 🏆 36 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 730 Public Repositories 
@@ -114,7 +112,7 @@ Go                       10 repos            ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tekintian/tekintian/main/assets/bar_graph.png)
 
 
- Last Updated on 2024-03-28 00:34:48 UTC
+ Last Updated on 2024-03-29 00:34:30 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/cxsw/waka-readme-stats)**
