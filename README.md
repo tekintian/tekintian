@@ -3,7 +3,9 @@
 
 <p><em>Hi, I am TekinTian, a senior full stack software engineer from Yunnan, China with over 10 years of research and development experience.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
- 
+
+<h2>Github开发者限时免费领取Fluence 5000FLT空投，领取工具地址 <a href="https://github.com/tekintian/dev-rewards" target="_blank">https://github.com/tekintian/dev-rewards</a> </h2>
+ <h3>中国地区用户可联系我们免费兑换为马上可提现的5000元人民币！<BR> 免费咨询QQ:932256355 </h3><BR>
 <img src="https://img.shields.io/static/v1?label=Email:&message=tekintian@gmail.com&color=blue">  <img src="https://img.shields.io/static/v1?label=QQ:&message=932256355&color=blue"> 
 
 ![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://dev.yunnan.ws/) 
